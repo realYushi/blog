@@ -20,7 +20,7 @@ I've decided to dive into the deep end for my first full-stack project by creati
 **Back End:**
 
 -   **Framework:** .NET
--   **Databases:** PostgreSQL for development and MSSQL for production
+-   **Databases:** MSSQL
 -   **ORM:** EF Core
 
 Throughout the development process, I'll be experimenting with CI/CD to handle some tasks, enhancing my understanding of these systems. Additionally, I plan to implement TDD (Test-Driven Development) and BDD (Behavior-Driven Development) methodologies to guide the project structure.

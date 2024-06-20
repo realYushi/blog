@@ -14,7 +14,6 @@ Stay tuned as I blindly follow this initial plan, learning and adapting along th
 
 ### Week 1: Setup and Initial Planning
 
--   **Setup Development Environment:** Install necessary software and tools on macOS.
 -   **Version Control Initialization:** Set up Git repositories on GitHub, including branch management strategies.
 -   **Docker Configuration:** Write Dockerfiles and docker-compose.yml for containerizing both frontend and backend.
 -   **CI/CD Pipeline Setup:** Initialize CI/CD using GitHub Actions or Jenkins to automate the build, test, and deploy process.
@@ -23,7 +22,7 @@ Stay tuned as I blindly follow this initial plan, learning and adapting along th
 
 ### Week 2: Backend Development Part 1
 
--   **API Design and Development:** Using DDD insights, define and start implementing REST API endpoints using .NET.
+-   **API Design and Development:** Using BDD insights, define and start implementing REST API endpoints using .NET.
 -   **Database Design and Implementation:** Model the SQL database reflecting the domain model, set up initial migrations.
 -   **Initial API Testing:** Write tests for the newly implemented APIs under the TDD approach.
 -   **CI/CD Pipeline Enhancement:** Configure the CI/CD pipeline to automate backend tests and database integration.
